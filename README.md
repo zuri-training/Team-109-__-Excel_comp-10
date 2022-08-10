@@ -13,7 +13,7 @@ main
 - Remove duplicates and return 2 files
 - Highlight duplicates and return two files.
 
-View the live demo of the Project [here](https://team-109-excel-comp.vercel.app/)
+- live demo of the Project [here](https://team-109-excel-comp.vercel.app/)
 
 ## Resources
 
